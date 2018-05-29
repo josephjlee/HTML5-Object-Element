@@ -1,5 +1,9 @@
 <?php
-
+/*
+* @author: Salvatore Gonda
+* @desc: PSR-4 autoload
+* @examples: take a look down at the examples 
+*/
 $classes = array(
 	'Dmount\Core\Html\Internal\ElementsLibrary'           => __DIR__.'/Html/Internal/ElementsLibrary.php',
 	'Dmount\Core\Html\Internal\AttributesLibrary'         => __DIR__.'/Html/Internal/AttributesLibrary.php',
